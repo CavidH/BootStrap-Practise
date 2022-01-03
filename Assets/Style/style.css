@@ -36,6 +36,27 @@ a.nav-link:hover{
 .star{
     color: #fff;
 }
+.item-star{
+    color: #2C3E50;
+}
 .card img{
     border-radius: 10px;
+    width: 400px;
 }
+.portfolio-item:hover .portfolio-item-caption-content{
+z-index: -1;
+}
+.item-header-txt{
+    color: #2C3E50;
+    font-weight: bold;
+    font-size: 50px;
+}
+.about-section{
+    background-color: #1ABC9C;
+}
+.lead{
+    color: rgb(255, 255, 255);
+    font-weight: 300;
+    font-size: 22px;
+}
+ 
